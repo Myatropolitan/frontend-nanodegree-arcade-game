@@ -1,0 +1,14 @@
+1.) (JAPANESE)"Google流 JavaScript におけるクラス定義の実現方法"
+http://www.yunabe.jp/docs/javascript_class_in_google.html
+
+2.) "Math"
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+
+3.) "Time-based Animation with HTML5 Canvas and JavaScript"
+http://viget.com/extend/time-based-animation
+
+4.) "Methods Within Constructor vs Prototype in Javascript"
+http://thecodeship.com/web-development/methods-within-constructor-vs-prototype-in-javascript/
+
+5.) "2D collision detection"
+https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection
