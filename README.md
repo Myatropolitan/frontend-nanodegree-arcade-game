@@ -5,6 +5,9 @@ Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015
 
 for self-checking their submission.
 
+*** HOW TO LOAD ***
+Click on the index.html.
+
 
 **** HOW TO PLAY ****
 The game is started upon loading of the page.
@@ -16,3 +19,7 @@ The number of lives a player has is shown on the bottom right of the screen.
 
 When the player collides with the enemy bug, a life is subtracted.
 When the player life reaches 0, the game is reset.
+
+
+*** HOW TO RESET ***
+Simply reload the page.
